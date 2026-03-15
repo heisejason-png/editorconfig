@@ -4,3 +4,4 @@
 [EditorConfig]: https://editorconfig.org
 [issue tracking]: https://github.com/editorconfig/editorconfig/issues
 [wiki pages]: https://github.com/editorconfig/editorconfig/wiki
+Created by Jason Scott Heise
