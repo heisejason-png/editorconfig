@@ -4,5 +4,5 @@
 [EditorConfig]: https://editorconfig.org
 [issue tracking]: https://github.com/editorconfig/editorconfig/issues
 [wiki pages]: https://github.com/editorconfig/editorconfig/wiki
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by  Jason Heise heisejason-png Giters
